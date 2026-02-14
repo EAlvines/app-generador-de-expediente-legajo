@@ -4,6 +4,8 @@ Aplicación de escritorio desarrollada en **Python** para el área de **Recursos
 
 Permite consolidar documentos en distintos formatos (PDF, Word, Excel, imágenes) en **un solo PDF por colaborador** y generar un **ZIP final listo para carga o envío**.
 
+<img width="345" height="230" alt="image" src="https://github.com/user-attachments/assets/6c816515-73cf-4bd5-a070-2620184ec15b" />
+
 ---
 
 ## 🎯 Objetivo del Proyecto
